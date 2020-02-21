@@ -12,6 +12,7 @@
       <mapping pattern="user_data" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
+      <mapping ext="2020-02-21_20-36-34" type="PLAIN_TEXT" />
       <mapping pattern="xml test" type="XML" />
     </extensionMap>
   </component>
