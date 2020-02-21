@@ -1,0 +1,62 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.8 (helloPython)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="D:\helloPython\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Python38/DLLs" type="simple" />
+            <root url="file://D:/Python38/Lib" type="simple" />
+            <root url="file://D:/Python38" type="simple" />
+            <root url="file://D:/helloPython/venv" type="simple" />
+            <root url="file://D:/helloPython/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/helloPython/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" type="simple" />
+            <root url="file://D:/helloPython/venv/Lib/site-packages/pip-19.0.3-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-1844540923" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/helloPython" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.8 (21day)" />
+      <type value="Python SDK" />
+      <version value="Python 3.8.1" />
+      <homePath value="D:\helloPython\21day\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Python38/DLLs" type="simple" />
+            <root url="file://D:/Python38/Lib" type="simple" />
+            <root url="file://D:/Python38" type="simple" />
+            <root url="file://D:/helloPython/21day/venv" type="simple" />
+            <root url="file://D:/helloPython/21day/venv/Lib/site-packages" type="simple" />
+            <root url="jar://D:/helloPython/21day/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" type="simple" />
+            <root url="file://D:/helloPython/21day/venv/Lib/site-packages/pip-19.0.3-py3.8.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/1186007667" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/helloPython/21day" />
+    </jdk>
+  </component>
+</application>
