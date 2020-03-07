@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="文件 'D:\helloPython\面向对象\others\22 绑定方法与非绑定方法使用.py [面向对象]'" />
+    <option name="defaultScopeName" value="文件 'D:\helloPython\面向对象\others\22 绑定方法与非绑定方法使用.py [面向对象]'" />
+    <option name="SEARCH_SCOPE" value="文件 'D:\helloPython\面向对象\others\22 绑定方法与非绑定方法使用.py [面向对象]'" />
   </component>
 </application>
