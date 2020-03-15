@@ -12,6 +12,7 @@
       <mapping pattern="tt" type="PLAIN_TEXT" />
       <mapping pattern="game_status" type="PLAIN_TEXT" />
       <mapping pattern="兼职" type="PLAIN_TEXT" />
+      <mapping pattern="01 send与recv对比" type="PLAIN_TEXT" />
       <mapping pattern="常用模块笔记" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="user_data" type="PLAIN_TEXT" />
