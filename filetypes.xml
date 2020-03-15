@@ -8,6 +8,7 @@
       <mapping pattern="readme" type="Markdown" />
       <mapping pattern="兼职信息" type="PLAIN_TEXT" />
       <mapping pattern="需求分析" type="PLAIN_TEXT" />
+      <mapping pattern="补充知识" type="PLAIN_TEXT" />
       <mapping pattern="tt" type="PLAIN_TEXT" />
       <mapping pattern="game_status" type="PLAIN_TEXT" />
       <mapping pattern="兼职" type="PLAIN_TEXT" />
