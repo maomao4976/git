@@ -1,9 +1,4 @@
 <application>
-  <component name="GithubAccounts">
-    <account id="29915ea5-ec39-4d31-834b-1e5bd0480e4d" name="maomao_4976@163.com">
-      <server host="github.com" />
-    </account>
-  </component>
   <component name="GithubSettings">
     <option name="CLONE_GIT_USING_SSH" value="true" />
   </component>
