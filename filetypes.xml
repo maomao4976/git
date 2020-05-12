@@ -8,16 +8,16 @@
       <mapping pattern="readme" type="Markdown" />
       <mapping pattern="tt" type="PLAIN_TEXT" />
       <mapping pattern="01 send与recv对比" type="PLAIN_TEXT" />
+      <mapping pattern="兼职信息" type="PLAIN_TEXT" />
       <mapping pattern="user_data" type="PLAIN_TEXT" />
+      <mapping pattern="补充知识" type="PLAIN_TEXT" />
       <mapping pattern="兼职" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="需求分析" type="PLAIN_TEXT" />
       <mapping pattern="常用模块笔记" type="PLAIN_TEXT" />
-      <mapping pattern="game_status" type="PLAIN_TEXT" />
       <mapping pattern="兼职联系方式" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="补充知识" type="PLAIN_TEXT" />
-      <mapping pattern="兼职信息" type="PLAIN_TEXT" />
+      <mapping pattern="game_status" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="2020-02-21_20-36-34" type="PLAIN_TEXT" />
