@@ -12,6 +12,7 @@
       <mapping pattern="user_data" type="PLAIN_TEXT" />
       <mapping pattern="补充知识" type="PLAIN_TEXT" />
       <mapping pattern="兼职" type="PLAIN_TEXT" />
+      <mapping pattern="用户登录信息_基础信息" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="需求分析" type="PLAIN_TEXT" />
       <mapping pattern="常用模块笔记" type="PLAIN_TEXT" />
@@ -21,6 +22,7 @@
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="2020-02-21_20-36-34" type="PLAIN_TEXT" />
+      <mapping ext="new" type="PLAIN_TEXT" />
       <mapping pattern="xml test" type="XML" />
     </extensionMap>
   </component>
