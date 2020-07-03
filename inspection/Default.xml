@@ -9,6 +9,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="settings" />
+        <option value="paramiko" />
       </list>
     </option>
   </inspection_tool>
