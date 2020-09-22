@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="qq" type="IgnoreLang file" />
       <mapping pattern="1234" type="JSON" />
+      <mapping pattern="000" type="JSON" />
       <mapping pattern="4321" type="JSON" />
       <mapping pattern="readme" type="Markdown" />
       <mapping pattern="tt" type="PLAIN_TEXT" />
