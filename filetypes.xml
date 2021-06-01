@@ -9,6 +9,7 @@
       <mapping pattern="readme" type="Markdown" />
       <mapping pattern="tt" type="PLAIN_TEXT" />
       <mapping pattern="01 send与recv对比" type="PLAIN_TEXT" />
+      <mapping pattern="人名" type="PLAIN_TEXT" />
       <mapping pattern="兼职信息" type="PLAIN_TEXT" />
       <mapping pattern="user_data" type="PLAIN_TEXT" />
       <mapping pattern="补充知识" type="PLAIN_TEXT" />
